@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Dancing+Script:wght@400..700&family=Fira+Code:wght@300..700&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=League+Spartan:wght@100..900&family=Lobster&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik+Wet+Paint&display=swap');
+
+.grl-img img {
+
+    width: 100%;
+    height: 500px;
+    padding: 0 10px 0 10px;
+    position: relative;
+}
+.cnt-div {
+    position: absolute;
+    background-color: white;
+    height: 220px;
+    width: 420px;
+    color: black;
+    top: 200px;
+    left: 510px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.cnt-div h5 {
+    font-size: 23px;
+}
+.cnt-div .p2 {
+    font-size: 14px;
+}
+.cnt-div .cnt-btn {
+    text-decoration: none;
+    border: .5px solid;
+    padding: 5px;
+}
+.sec-2 {
+    display: grid;
+    grid-template-columns: 70% 20%;
+}
+.div1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+.img2 {
+    padding-right: 230px;
+    height: 400px;
+    display: inline-block;
+    
+}
+.ptf-img {
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+.div2 {
+    padding-top: 20px;
+}
+.div2a1 {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    padding: 5px;
+    margin-left: 50px;
+     /* margin-bottom: 95px; */
+}
+.name {
+    font-family: "Dancing Script", cursive;
+    font-size: 25px;
+}
+.footera {
+    text-decoration: none;
+    background-color: black;
+    border: 1px solid black;
+    padding: 5px;
+    color: white;
+    margin: 5px 0 0px;
+}
+.footer {
+    margin-top: 10px;
+}
